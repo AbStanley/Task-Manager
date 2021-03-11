@@ -1,0 +1,23 @@
+
+body {
+    padding: 20px; 
+    text-align: center;
+}
+
+div.body {
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+div.table {
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+}
+
+#noItems{
+    padding-top: 20px;
+}
